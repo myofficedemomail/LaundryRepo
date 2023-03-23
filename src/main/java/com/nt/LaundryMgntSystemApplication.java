@@ -8,6 +8,7 @@ public class LaundryMgntSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LaundryMgntSystemApplication.class, args);
+		System.out.println("Hello World Task-2");
 	}
 
 }
