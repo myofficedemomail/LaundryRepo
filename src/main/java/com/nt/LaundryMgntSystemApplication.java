@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LaundryMgntSystemApplication {
 
 	public static void main(String[] args) {
-		int i=0;
 		SpringApplication.run(LaundryMgntSystemApplication.class, args);
 	}
 
